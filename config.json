@@ -1,0 +1,27 @@
+{
+  "title": "JS apps",
+  "description": "A collection of small apps",
+  "apps": [
+    {
+      "id": "1",
+      "title": "Demo Chaaga - Yin Yang",
+      "description": "Showcase of Chaaga's online features. One button for the yin, one button for the yang. Who will win?",
+      "imageUrl": "https://images.stockcake.com/public/d/f/0/df0f9738-927d-40aa-b942-5f08e17c3895_large/radiant-yin-yang-stockcake.jpg",
+      "sourceUrl": "https://github.com"
+    },
+    {
+      "id": "2",
+      "title": "Demo Chaaga - Reaction",
+      "description": "Test your reaction time and compare it with your friends.",
+      "imageUrl": "https://images.stockcake.com/public/8/f/a/8fabfd44-fc1a-41ec-be4d-3834f164190e_large/cowboy-quick-draw-stockcake.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Demo Chaaga - Todo",
+      "description": "A simple to-do list that can be shared.",
+      "imageUrl": "https://images.stockcake.com/public/5/2/0/520620a0-bded-48f5-a0a6-ceb076f5f92d_large/watercolor-to-do-lists-stockcake.jpg",
+      "sourceUrl": "https://github.com"
+    }
+  ],
+  "style": {}
+}
