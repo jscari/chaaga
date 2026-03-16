@@ -14,14 +14,16 @@
       "title": "Demo Chaaga - Hunt",
       "description": "Test your reaction time and compare it with your friends.",
       "appUrl": "https://hunt-bqx.pages.dev",
-      "imageUrl": "https://hunt-bqx.pages.dev/cover.jpg"
+      "imageUrl": "https://hunt-bqx.pages.dev/cover.jpg",
+      "sourceUrl": "https://github.com/chaaga-apps/hunt"
     },
     {
       "id": "todo",
       "title": "Demo Chaaga - Todo",
       "description": "A simple to-do list that can be shared.",
-      "imageUrl": "https://images.stockcake.com/public/5/2/0/520620a0-bded-48f5-a0a6-ceb076f5f92d_large/watercolor-to-do-lists-stockcake.jpg",
-      "sourceUrl": "https://github.com"
+      "appUrl": "https://todo-ay0.pages.dev",
+      "imageUrl": "https://todo-ay0.pages.dev/cover.webp",
+      "sourceUrl": "https://github.com/chaaga-apps/todo"
     }
   ],
   "style": {}
