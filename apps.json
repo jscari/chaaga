@@ -11,9 +11,10 @@
     },
     {
       "id": "hunt",
-      "title": "Demo Chaaga - Reaction",
+      "title": "Demo Chaaga - Hunt",
       "description": "Test your reaction time and compare it with your friends.",
-      "imageUrl": "https://images.stockcake.com/public/8/f/a/8fabfd44-fc1a-41ec-be4d-3834f164190e_large/cowboy-quick-draw-stockcake.jpg"
+      "appUrl": "https://hunt-bqx.pages.dev",
+      "imageUrl": "https://hunt-bqx.pages.dev/cover.jpg"
     },
     {
       "id": "todo",
