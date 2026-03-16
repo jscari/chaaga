@@ -10,6 +10,14 @@
       "sourceUrl": "https://github.com"
     },
     {
+      "id": "tutorial",
+      "title": "Chaaga tutorial",
+      "description": "Final result of the tutorial",
+      "appUrl": "https://tutorial-9qt.pages.dev/step3.html",
+      "imageUrl": "https://tutorial-9qt.pages.dev/cover.png",
+      "sourceUrl": "https://github.com/chaaga-apps/tutorial"
+    },
+    {
       "id": "hunt",
       "title": "Demo Chaaga - Hunt",
       "description": "Test your reaction time and compare it with your friends.",
